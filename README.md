@@ -1,1 +1,1 @@
-# paint
+# Paint tool
